@@ -1,0 +1,8 @@
+.button{
+	-fx-font-size: 30px;
+	-fx-background-color: #cccac4;
+	-fx-text-fill: #595444;
+	-fx-border-color: #595444;
+	-fx-padding: 3 6 6 6;
+}
+
